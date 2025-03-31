@@ -103,8 +103,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 60px;  
+    gap: 90px;  
     flex-wrap: wrap;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
     
 }
@@ -113,10 +115,10 @@ body{
     
 }
 .p2{
-    transform: scale(1.2);
+    width: 140px;
 }
 .p3{
-    width: 140px;
+    width: 120px;
 }
 .p4{
     width: 140px;
@@ -125,7 +127,7 @@ body{
     width: 140px;
 }
 .p6{
-    width: 140px;
+    width: 120px;
 }
 
 
