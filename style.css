@@ -105,29 +105,59 @@ body{
     align-items: center;
     gap: 90px;  
     flex-wrap: wrap;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
 
     
 }
 .p1{
     width: 140px;
-    
+    transition: 0.3s ease-in-out;
+}
+.p1:hover{
+    width: 150px;
+    transform: scale(1.2);
 }
 .p2{
     width: 140px;
+    transition: 0.3s ease-in-out;
+}
+.p2:hover:hover{
+    width: 150px;
+    transform: scale(1.2);
 }
 .p3{
     width: 120px;
+    transition: 0.3s ease-in-out;
+}
+.p3:hover:hover{
+    width: 130px;
+    transform: scale(1.0);
 }
 .p4{
     width: 140px;
+    transition: 0.3s ease-in-out;
+}
+.p4:hover:hover{
+    width: 150px;
+    transform: scale(1.2);
 }
 .p5{
     width: 140px;
+    transition: 0.3s ease-in-out;
+}
+.p5:hover:hover{
+    width: 150px;
+    transform: scale(1.2);
 }
 .p6{
     width: 120px;
+    transition: 0.3s ease-in-out;
+}
+.p6:hover:hover{
+    width: 130px;
+    transform: scale(1.2);
 }
 
 
